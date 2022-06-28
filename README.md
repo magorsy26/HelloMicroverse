@@ -1,22 +1,13 @@
 # HelloMicroverse
-This repo is saying hello world to all micronauts
 
 Project Name
 
-    Description the project.
+    This repo is saying hello world to all micronauts
 
 Built With
     
     Html
 Getting Started
-
-
-
-👤 Author1
-
-    GitHub: @githubhandle
-    Twitter: @twitterhandle
-    LinkedIn: LinkedIn
 
 👤 Author2
 
