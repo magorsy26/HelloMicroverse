@@ -1,12 +1,12 @@
 # HelloMicroverse
 
-Project Name
+Hello Microverse
 
     This repo is saying hello world to all micronauts
 
 Built With
     
-    Html
+    HTML,CSS
 Getting Started
 
 👤 Author2
